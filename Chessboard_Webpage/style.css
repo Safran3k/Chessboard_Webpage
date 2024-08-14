@@ -1,0 +1,150 @@
+.content {
+  padding-top: 3%;
+  display: flex;
+  justify-content: center;
+  font-family: "Mukta", sans-serif;
+  font-weight: bold;
+}
+
+.tabla {
+  align-items: center;
+  border-spacing: 0px;
+}
+
+.sotet {
+  background-color: black;
+  text-align: center;
+  color: #f4eae1;
+  font-size: 35px;
+  width: 68px;
+  height: 68px;
+}
+
+.vilagos {
+  background-color: #ede4df;
+  text-align: center;
+  font-size: 35px;
+  width: 68px;
+  height: 68px;
+}
+
+.barna {
+  background-color: rgb(65, 33, 10);
+  color: #f4eae1;
+  text-align: center;
+  font-size: 35px;
+  width: 68px;
+  height: 68px;
+}
+
+.forgatas {
+  transform: rotate(180deg);
+}
+
+/*belső rész*/
+.belsofelsoszegely {
+  width: 68px;
+  height: 61px;
+  border-top: 7px solid rgb(180, 132, 96);
+}
+
+.belsofelsobalsarok {
+  width: 61px;
+  height: 61px;
+  border-left: 7px solid rgb(180, 132, 96);
+}
+
+.belsofelsojobbsarok {
+  width: 61px;
+  height: 61px;
+  border-right: 7px solid rgb(180, 132, 96);
+}
+
+.belsobalszegely {
+  width: 61px;
+  height: 68px;
+  border-left: 7px solid rgb(180, 132, 96);
+}
+
+.belsoalsobalsarok {
+  width: 61px;
+  height: 61px;
+  border-left: 7px solid rgb(180, 132, 96);
+}
+
+.belsoalsojobbsarok {
+  width: 61px;
+  height: 61px;
+  border-right: 7px solid rgb(180, 132, 96);
+}
+
+.belsoalsoszegely {
+  width: 61px;
+  height: 61px;
+  border-bottom: 7px solid rgb(180, 132, 96);
+}
+
+.belsoalsoszegely {
+  width: 61px;
+  height: 61px;
+  border-bottom: 7px solid rgb(180, 132, 96);
+}
+
+.belsojobbszegely {
+  width: 61px;
+  height: 68px;
+  border-right: 7px solid rgb(180, 132, 96);
+}
+
+/*külső rész*/
+.kulsofelsoszegely {
+  width: 68px;
+  height: 61px;
+  border-bottom: 7px solid rgb(180, 132, 96);
+}
+
+.kulsofelsobalsarok {
+  width: 61px;
+  height: 61px;
+  border-left: 7px solid rgb(180, 132, 96);
+  border-top: 7px solid rgb(180, 132, 96);
+}
+
+.kulsofelsojobbsarok {
+  width: 61px;
+  height: 61px;
+  border-right: 7px solid rgb(180, 132, 96);
+  border-top: 7px solid rgb(180, 132, 96);
+}
+
+.kulsoalsoszegely {
+  width: 68px;
+  height: 61px;
+  border-bottom: 7px solid rgb(180, 132, 96);
+}
+
+.kulsoalsobalsarok {
+  width: 61px;
+  height: 61px;
+  border-left: 7px solid rgb(180, 132, 96);
+  border-bottom: 7px solid rgb(180, 132, 96);
+}
+
+.kulsoalsojobbsarok {
+  width: 61px;
+  height: 61px;
+  border-right: 7px solid rgb(180, 132, 96);
+  border-bottom: 7px solid rgb(180, 132, 96);
+}
+
+.kulsojobbszegely {
+  width: 61px;
+  height: 68px;
+  border-left: 7px solid rgb(180, 132, 96);
+}
+
+.kulsobalszegely {
+  width: 61px;
+  height: 68px;
+  border-left: 7px solid rgb(180, 132, 96);
+}
